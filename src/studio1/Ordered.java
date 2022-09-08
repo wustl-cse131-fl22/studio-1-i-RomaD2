@@ -15,7 +15,7 @@ public class Ordered {
 		int y = in.nextInt();
 		System.out.println("Value for z?");
 		int z = in.nextInt();
-
+//put # in output box and program to run it using variables 
 	}
 
 }
